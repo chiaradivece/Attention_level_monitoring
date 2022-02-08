@@ -1,16 +1,15 @@
 # C.C.A.S.A.: Car Concentration And Security Assistant
-Progetto di IEIM 2016, Bracco Filippo e Di Vece Chiara
+IEIM 2016 Project, Bracco Filippo e Di Vece Chiara
 
-  Lo scopo del programma è quello di rilevare particolari condizioni non compatibili con una guida sicura attraverso face e eyes detection accertandosi che lo sguardo sia rivolto verso la strada mentre il veicolo è in movimento e che il conducente non sia vittima di colpi di sonno. Se queste condizioni non dovessero essere rispettate, il guidatore sarà richiamato all'attenzione con avvisi acustici e visivi. 
+The aim of the program is to detect particular conditions that are not compatible with safe driving by means of face and eye detection, making sure that the driver's eyes are on the road while the vehicle is moving and that the driver is not the victim of sleepiness. If these conditions are not met, the driver will be alerted with audible and visual warnings. 
 
-## Sorgente
-Il file eseguibile **codice.py** si trova nella cartella *Sorgente*; è possibile eseguire direttamente il codice con Python ma si rammenta di scaricare la cartella *Assets* contenente files, immagini e audio necessari per la corretta esecuzione del programma; sono inoltre necessari i moduli Python **cv2**, **Pyglet** e **numpy**.
+## Source code
+The executable file **codice.py** can be found in the folder *Sorgente*; it is possible to execute the code directly with Python, but remember to download the *Assets* folder containing files, images and audio necessary for the correct execution of the programme; the Python modules **cv2**, **Pyglet** and **numpy** are also required.
 
-
-## Documentazione
-La documentazione contiene:
-* un file **Report.pdf**: genesi e spiegazione delle funzionalità del programma;
-* un file **Report.tex**: codice sorgente del file .PDF;
-* un file **presentazione.html**: spiegazione più dettagliata del codice sorgente eseguibile (suddiviso in blocchi per una maggiore comprensione);
-* un file **presentazione.ipynb**: notebook Jupiter con codice e commenti;
+## Documentation
+The documentation contains:
+* a **Report.pdf** file: genesis and explanation of the functionality of the programme;
+* one **Report.tex** file: source code of the .pdf file;
+* one **presentation.html** file: more detailed explanation of the executable source code (divided into blocks for better understanding);
+* one **presentation.ipynb** file: Jupiter notebook with code and comments;
 
